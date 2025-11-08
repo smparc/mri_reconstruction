@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Trained models - These are too large for Git
+*.pth
+*.pt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
